@@ -1,0 +1,7 @@
+form,
+p {
+  display: grid;
+  gap: 8px;
+  margin: 50px;
+  padding: 0 300px;
+}
